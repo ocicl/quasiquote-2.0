@@ -1,0 +1,10 @@
+* quasiquote-2.0
+
+Quasiquote more suitable for macros that define other macros
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mabragor/quasiquote-2.0.git   |
+| commit  | cac9087  |
+| systems | quasiquote-2.0 |
+|---------+-------------------------------------------|
+
